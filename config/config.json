@@ -1,0 +1,7 @@
+{
+  "name": "ORION AI",
+  "version": "0.1",
+  "model": "qwen3:8b",
+  "language": "fr",
+  "memory": "memory/memory.json"
+}

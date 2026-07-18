@@ -1,0 +1,22 @@
+{
+  "key": "history_writer",
+  "value": [
+    {
+      "role": "user",
+      "content": "ecris un tweet pour orion"
+    },
+    {
+      "role": "assistant",
+      "content": "\"C'est l'heure d'inventer demain avec Orion AI ! Découvrez comment transformer votre business à travers des innovations numériques intelligentes. 🌟 #InnovationTechnologique #DigitalRevolution\""
+    },
+    {
+      "role": "user",
+      "content": "projet saas"
+    },
+    {
+      "role": "assistant",
+      "content": "Créez rapidement et efficacement avec notre SaaS innovant. Personnalisez votre solution sur mesure sans compétences techniques spécifiques. Développez des relations clients exceptionnelles. #SaaS #DéveloppementWeb #MarketingDigital"
+    }
+  ],
+  "updated_at": "2026-07-18 11:52:34.798662"
+}

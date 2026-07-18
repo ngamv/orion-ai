@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "orion-ai"
+version = "1.0.0"
+description = "ORION AI - Système multi-agents professionnel"
+authors = ["ORION Team"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "^0.111.0"
+uvicorn = "^0.29.0"
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]

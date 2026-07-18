@@ -1,0 +1,11 @@
+{
+  "name": "Atlas",
+  "role": "architecte",
+  "description": "Architecte logiciel",
+  "skills": [
+    "architecture",
+    "Python",
+    "React",
+    "API"
+  ]
+}
