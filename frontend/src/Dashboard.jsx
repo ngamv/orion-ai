@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react"
 
-const API = "http://127.0.0.1:8004"
+const API = import.meta.env.VITE_API_URL || "http://127.0.0.1:8004"
 
 export default function Dashboard({ onBack }) {
   const [data, setData] = useState(null)
